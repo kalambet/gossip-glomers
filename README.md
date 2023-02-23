@@ -1,0 +1,1 @@
+Solutions for the [Gossip Glomers](https://fly.io/blog/gossip-glomers/) Challenge.
